@@ -23,3 +23,6 @@ https://www.qrcode-monkey.com/
 
 Marker and small QR Code Generator
 https://medium.com/arjs/ar-code-a-fast-path-to-augmented-reality-60e51be3cbdf
+
+Documentation
+https://ar-js-org.github.io/AR.js-Docs/
