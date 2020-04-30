@@ -20,3 +20,6 @@ https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples
 
 QR Code Generator:
 https://www.qrcode-monkey.com/
+
+Marker and small QR Code Generator
+https://medium.com/arjs/ar-code-a-fast-path-to-augmented-reality-60e51be3cbdf
