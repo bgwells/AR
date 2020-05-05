@@ -27,5 +27,9 @@ https://medium.com/arjs/ar-code-a-fast-path-to-augmented-reality-60e51be3cbdf
 AR Code Generator:
 https://jeromeetienne.github.io/AR.js/three.js/examples/arcode.html
 
-Documentation
+AR.js Documentation
 https://ar-js-org.github.io/AR.js-Docs/
+
+THREE js Documentation
+https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
