@@ -1,10 +1,5 @@
 # AR
-AR Learning
-
-Web enabled AR projects, resources from Medium.com
-
-Need a web site to host assets
-
+Numerous External Resources on AR and WEB enabled projects
 
 AR.js Tutorial 
 https://medium.com/chialab-open-source/ar-js-the-simpliest-way-to-get-cross-browser-ar-on-the-web-8f670dd45462
